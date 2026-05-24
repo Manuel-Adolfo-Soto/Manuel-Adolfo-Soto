@@ -30,7 +30,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Manuel-Adolfo-Soto&icon=5&color=6" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=Manuel-Adolfo-Soto&color=8b5cf6&style=flat-square&label=visits" alt="visitors"/>
 </p>
 
 <div align="center">
